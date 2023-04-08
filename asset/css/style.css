@@ -1,0 +1,9 @@
+.carousel-item-padding{
+    padding: 200px 250px;
+}
+
+.add-section{
+    background: url("../../img/6.jpg"); /***../ folder theke ber hoa***/
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}

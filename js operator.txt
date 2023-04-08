@@ -1,0 +1,15 @@
+Arithmatic:
+1. Binary: (+,-,*,/,%)
+2. Unarry: (++,--,(-))
+
+Assignment: (
+
+
+
+
+************Statement**********
+1. Value :-(Fixed Value, Variable value)
+2. Syntax :- 
+3. Operator :- 
+4. Expression:- (Value + Operator)
+5. Comments :- 
